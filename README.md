@@ -1,27 +1,26 @@
-DSA Programs Repository Explanation
+DSA Programs Repository
+1. List Program
 
-List Program
+Implements a list data structure.
 
-Ye program list data structure ko implement karta hai.
+Stores elements in sequential order.
 
-List me elements sequence me store hote hain.
+Supports basic operations: insert, delete, display.
 
-Basic operations include: insert, delete, display.
+Use case: Managing student records, playlists, or dynamic data collections.
 
-Use case: Student records, playlist, ya dynamic data collection.
+2. Queue Program
 
-Queue Program
+Implements a queue (FIFO: First In First Out).
 
-Ye program queue data structure ko implement karta hai (FIFO: First In First Out).
+Basic operations: enqueue (add), dequeue (remove), display.
 
-Basic operations include: enqueue (add), dequeue (remove), display.
+Use case: Printer queues, task scheduling, customer service lines.
 
-Use case: Printer queue, task scheduling, customer service line.
+3. Stack Program
 
-Stack Program
+Implements a stack (LIFO: Last In First Out).
 
-Ye program stack data structure ko implement karta hai (LIFO: Last In First Out).
+Basic operations: push (add), pop (remove), peek (top element), display.
 
-Basic operations include: push (add), pop (remove), peek (top element check), display.
-
-Use case: Undo feature, expression evaluation, function call stack.
+Use case: Undo features, expression evaluation, function call stack management.
